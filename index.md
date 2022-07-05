@@ -1,4 +1,4 @@
-## Hey I'm Aaron Aldana!
+## Aaron Aldana
 
 You can use the [editor on GitHub](https://github.com/AaronMarcel/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
